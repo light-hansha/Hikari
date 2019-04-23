@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Hikari
+Comment=A dark futuristic design theme based on Matcha-dark-azul
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Hikari
+MetacityTheme=Hikari
+IconTheme=Hikari
+CursorTheme=Breeze_cursors
+ButtonLayout=menu:minimize,maximize,close
