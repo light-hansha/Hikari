@@ -584,29 +584,29 @@ button.osd:disabled {
 button.suggested-action {
   background-clip: border-box;
   color: white;
-  background-color: #4146d1;
-  border-color: #4146d1;
+  background-color: #D600FF;
+  border-color: #D600FF;
 }
 
 button.suggested-action.flat, button.suggested-action.sidebar-button, button.suggested-action.budgie-menu-launcher, .budgie-panel .suggested-action#tasklist-button, .budgie-panel button.suggested-action.flat.launcher {
   border-color: transparent;
   background-color: transparent;
   background-image: none;
-  color: #4146d1;
+  color: #D600FF;
 }
 
 button.suggested-action:hover {
   background-clip: border-box;
   color: white;
-  background-color: #565ad6;
-  border-color: #565ad6;
+  background-color: #da1aff;
+  border-color: #da1aff;
 }
 
 button.suggested-action:active, button.suggested-action:checked {
   background-clip: border-box;
   color: white;
-  background-color: #6a6edb;
-  border-color: #6a6edb;
+  background-color: #de33ff;
+  border-color: #de33ff;
 }
 
 button.suggested-action.flat:disabled, button.suggested-action.sidebar-button:disabled, button.suggested-action.budgie-menu-launcher:disabled, .budgie-panel .suggested-action#tasklist-button:disabled {
@@ -628,29 +628,29 @@ button.suggested-action:disabled label, button.suggested-action:disabled {
 button.destructive-action {
   background-clip: border-box;
   color: white;
-  background-color: #db5b5b;
-  border-color: #db5b5b;
+  background-color: #FF1178;
+  border-color: #FF1178;
 }
 
 button.destructive-action.flat, button.destructive-action.sidebar-button, button.destructive-action.budgie-menu-launcher, .budgie-panel .destructive-action#tasklist-button, .budgie-panel button.destructive-action.flat.launcher {
   border-color: transparent;
   background-color: transparent;
   background-image: none;
-  color: #db5b5b;
+  color: #FF1178;
 }
 
 button.destructive-action:hover {
   background-clip: border-box;
   color: white;
-  background-color: #e07070;
-  border-color: #e07070;
+  background-color: #ff2b86;
+  border-color: #ff2b86;
 }
 
 button.destructive-action:active, button.destructive-action:checked {
   background-clip: border-box;
   color: white;
-  background-color: #e48585;
-  border-color: #e48585;
+  background-color: #ff4495;
+  border-color: #ff4495;
 }
 
 button.destructive-action.flat:disabled, button.destructive-action.sidebar-button:disabled, button.destructive-action.budgie-menu-launcher:disabled, .budgie-panel .destructive-action#tasklist-button:disabled {
@@ -1962,29 +1962,29 @@ headerbar .linked:not(.vertical):not(.path-bar) > button:checked + entry,
 headerbar button.suggested-action, .nemo-window .primary-toolbar button.suggested-action {
   background-clip: border-box;
   color: white;
-  background-color: #4146d1;
-  border-color: #4146d1;
+  background-color: #D600FF;
+  border-color: #D600FF;
 }
 
 headerbar button.suggested-action.flat, .nemo-window .primary-toolbar button.suggested-action.flat, headerbar button.suggested-action.sidebar-button, .nemo-window .primary-toolbar button.suggested-action.sidebar-button, headerbar button.suggested-action.budgie-menu-launcher, .nemo-window .primary-toolbar button.suggested-action.budgie-menu-launcher, headerbar .budgie-panel .suggested-action#tasklist-button, .budgie-panel headerbar .suggested-action#tasklist-button, .nemo-window .primary-toolbar .budgie-panel .suggested-action#tasklist-button, .budgie-panel .nemo-window .primary-toolbar .suggested-action#tasklist-button, headerbar .budgie-panel button.suggested-action.flat.launcher, .budgie-panel headerbar button.suggested-action.flat.launcher, .nemo-window .primary-toolbar .budgie-panel button.suggested-action.flat.launcher, .budgie-panel .nemo-window .primary-toolbar button.suggested-action.flat.launcher {
   border-color: transparent;
   background-color: transparent;
   background-image: none;
-  color: #4146d1;
+  color: #D600FF;
 }
 
 headerbar button.suggested-action:hover, .nemo-window .primary-toolbar button.suggested-action:hover {
   background-clip: border-box;
   color: white;
-  background-color: #565ad6;
-  border-color: #565ad6;
+  background-color: #da1aff;
+  border-color: #da1aff;
 }
 
 headerbar button.suggested-action:active, .nemo-window .primary-toolbar button.suggested-action:active, headerbar button.suggested-action:checked, .nemo-window .primary-toolbar button.suggested-action:checked {
   background-clip: border-box;
   color: white;
-  background-color: #6a6edb;
-  border-color: #6a6edb;
+  background-color: #de33ff;
+  border-color: #de33ff;
 }
 
 headerbar button.suggested-action.flat:disabled, .nemo-window .primary-toolbar button.suggested-action.flat:disabled, headerbar button.suggested-action.sidebar-button:disabled, .nemo-window .primary-toolbar button.suggested-action.sidebar-button:disabled, headerbar button.suggested-action.budgie-menu-launcher:disabled, .nemo-window .primary-toolbar button.suggested-action.budgie-menu-launcher:disabled, headerbar .budgie-panel .suggested-action#tasklist-button:disabled, .budgie-panel headerbar .suggested-action#tasklist-button:disabled, .nemo-window .primary-toolbar .budgie-panel .suggested-action#tasklist-button:disabled, .budgie-panel .nemo-window .primary-toolbar .suggested-action#tasklist-button:disabled, headerbar .budgie-panel button.suggested-action.flat.launcher:disabled, .budgie-panel headerbar button.suggested-action.flat.launcher:disabled, headerbar button.suggested-action:disabled, .nemo-window .primary-toolbar button.suggested-action:disabled {
@@ -2003,29 +2003,29 @@ headerbar button.suggested-action:backdrop, .nemo-window .primary-toolbar button
 headerbar button.destructive-action, .nemo-window .primary-toolbar button.destructive-action {
   background-clip: border-box;
   color: white;
-  background-color: #db5b5b;
-  border-color: #db5b5b;
+  background-color: #FF1178;
+  border-color: #FF1178;
 }
 
 headerbar button.destructive-action.flat, .nemo-window .primary-toolbar button.destructive-action.flat, headerbar button.destructive-action.sidebar-button, .nemo-window .primary-toolbar button.destructive-action.sidebar-button, headerbar button.destructive-action.budgie-menu-launcher, .nemo-window .primary-toolbar button.destructive-action.budgie-menu-launcher, headerbar .budgie-panel .destructive-action#tasklist-button, .budgie-panel headerbar .destructive-action#tasklist-button, .nemo-window .primary-toolbar .budgie-panel .destructive-action#tasklist-button, .budgie-panel .nemo-window .primary-toolbar .destructive-action#tasklist-button, headerbar .budgie-panel button.destructive-action.flat.launcher, .budgie-panel headerbar button.destructive-action.flat.launcher, .nemo-window .primary-toolbar .budgie-panel button.destructive-action.flat.launcher, .budgie-panel .nemo-window .primary-toolbar button.destructive-action.flat.launcher {
   border-color: transparent;
   background-color: transparent;
   background-image: none;
-  color: #db5b5b;
+  color: #FF1178;
 }
 
 headerbar button.destructive-action:hover, .nemo-window .primary-toolbar button.destructive-action:hover {
   background-clip: border-box;
   color: white;
-  background-color: #e07070;
-  border-color: #e07070;
+  background-color: #ff2b86;
+  border-color: #ff2b86;
 }
 
 headerbar button.destructive-action:active, .nemo-window .primary-toolbar button.destructive-action:active, headerbar button.destructive-action:checked, .nemo-window .primary-toolbar button.destructive-action:checked {
   background-clip: border-box;
   color: white;
-  background-color: #e48585;
-  border-color: #e48585;
+  background-color: #ff4495;
+  border-color: #ff4495;
 }
 
 headerbar button.destructive-action.flat:disabled, .nemo-window .primary-toolbar button.destructive-action.flat:disabled, headerbar button.destructive-action.sidebar-button:disabled, .nemo-window .primary-toolbar button.destructive-action.sidebar-button:disabled, headerbar button.destructive-action.budgie-menu-launcher:disabled, .nemo-window .primary-toolbar button.destructive-action.budgie-menu-launcher:disabled, headerbar .budgie-panel .destructive-action#tasklist-button:disabled, .budgie-panel headerbar .destructive-action#tasklist-button:disabled, .nemo-window .primary-toolbar .budgie-panel .destructive-action#tasklist-button:disabled, .budgie-panel .nemo-window .primary-toolbar .destructive-action#tasklist-button:disabled, headerbar .budgie-panel button.destructive-action.flat.launcher:disabled, .budgie-panel headerbar button.destructive-action.flat.launcher:disabled, headerbar button.destructive-action:disabled, .nemo-window .primary-toolbar button.destructive-action:disabled {
@@ -3664,8 +3664,8 @@ levelbar block.high {
 }
 
 levelbar block.full {
-  border-color: #2eb398;
-  background-color: #2eb398;
+  border-color: #00FF9F;
+  background-color: #00FF9F;
 }
 
 levelbar block.empty {
@@ -5718,7 +5718,7 @@ window.background > box.vertical box.horizontal > box.vertical > scrolledwindow 
 }
 
 window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list row.event.activatable label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .event.view label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list textview text.event label.compressed-entries-label, textview window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list text.event label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list iconview.event label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .geary-sidebar-pane-separator frame.geary-folder-frame treeview.event.view.sidebar label.compressed-entries-label, .geary-sidebar-pane-separator frame.geary-folder-frame window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list treeview.event.view.sidebar label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .nemo-window .nemo-places-sidebar .event.places-treeview label.compressed-entries-label, .nemo-window .nemo-places-sidebar window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .event.places-treeview label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .budgie-menu button.event label.compressed-entries-label, .budgie-menu window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list button.event label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .panel popover .sidebar .event.view label.compressed-entries-label, .panel popover .sidebar window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list .event.view label.compressed-entries-label, window.background > box.vertical box.horizontal > box.vertical > scrolledwindow > viewport.frame > list treeview.event.view.sidebar.source-list label.compressed-entries-label {
-  background-image: image(#4146d1);
+  background-image: image(#D600FF);
   color: #1E1E24;
   font-weight: 700;
 }
@@ -6449,7 +6449,7 @@ list.tilix-session-sidebar button.tilix-sidebar-close-button {
   padding: 0;
   border-radius: 100px;
   -gtk-outline-radius: 100px;
-  background-color: #db5b5b;
+  background-color: #FF1178;
 }
 
 list.tilix-session-sidebar button.tilix-sidebar-close-button, list.tilix-session-sidebar button.tilix-sidebar-close-button:hover, list.tilix-session-sidebar button.tilix-sidebar-close-button:active, list.tilix-session-sidebar button.tilix-sidebar-close-button:checked {
@@ -6457,11 +6457,11 @@ list.tilix-session-sidebar button.tilix-sidebar-close-button, list.tilix-session
 }
 
 list.tilix-session-sidebar button.tilix-sidebar-close-button:hover {
-  background-color: #e48585;
+  background-color: #ff4495;
 }
 
 list.tilix-session-sidebar button.tilix-sidebar-close-button:active, list.tilix-session-sidebar button.tilix-sidebar-close-button:checked {
-  background-image: image(#d23131);
+  background-image: image(#dd0060);
 }
 
 window.background.csd > box.vertical > stack > box.horizontal > list {
@@ -7226,7 +7226,7 @@ popover.background.places-menu row {
 }
 
 .budgie-panel .alert {
-  color: #db5b5b;
+  color: #FF1178;
 }
 
 .budgie-panel #tasklist-button {
@@ -8083,7 +8083,7 @@ box.vertical > stack > box.vertical > .raven-background > viewport.frame > list 
 }
 
 .budgie-polkit-dialog .failure {
-  color: #db5b5b;
+  color: #FF1178;
 }
 
 .budgie-run-dialog {
@@ -8666,7 +8666,7 @@ actionbar.inline-toolbar button:last-child {
 }
 
 scale.warmth trough {
-  background-image: linear-gradient(to right, #4146d1, #db5b5b);
+  background-image: linear-gradient(to right, #D600FF, #FF1178);
   box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.25);
 }
 
@@ -8797,43 +8797,43 @@ scale.warmth trough {
 #shutdown_button.button {
   background-clip: border-box;
   color: green;
-  background-color: #db5b5b;
-  border-color: #db5b5b;
+  background-color: #FF1178;
+  border-color: #FF1178;
 }
 
 #shutdown_button.button:hover {
   background-clip: border-box;
   color: green;
-  background-color: #e48585;
-  border-color: #e48585;
+  background-color: #ff4495;
+  border-color: #ff4495;
 }
 
 #shutdown_button.button:active, #shutdown_button.button:checked {
   background-clip: border-box;
   color: green;
-  background-color: #d23131;
-  border-color: #d23131;
+  background-color: #dd0060;
+  border-color: #dd0060;
 }
 
 #restart_button.button {
   background-clip: border-box;
   color: green;
-  background-color: #4146d1;
-  border-color: #4146d1;
+  background-color: #D600FF;
+  border-color: #D600FF;
 }
 
 #restart_button.button:hover {
   background-clip: border-box;
   color: green;
-  background-color: #6a6edb;
-  border-color: #6a6edb;
+  background-color: #de33ff;
+  border-color: #de33ff;
 }
 
 #restart_button.button:active, #restart_button.button:checked {
   background-clip: border-box;
   color: green;
-  background-color: #2b30b4;
-  border-color: #2b30b4;
+  background-color: #ab00cc;
+  border-color: #ab00cc;
 }
 
 #greeter_infobar {
@@ -9358,7 +9358,7 @@ window.thunar .sidebar scrollbar trough, filechooser placessidebar.sidebar scrol
 @define-color unfocused_borders rgba(0, 0, 0, 0.2);
 @define-color warning_color #F27835;
 @define-color error_color #FC4138;
-@define-color success_color #2eb398;
+@define-color success_color #00FF9F;
 @define-color placeholder_text_color #A8A8A8;
 @define-color link_color #e9ff66;
 @define-color content_view_bg #1E1E24;
