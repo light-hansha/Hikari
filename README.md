@@ -7,6 +7,7 @@ The color scheme combines dark, muted backgrounds with bright, neon colors in th
 - **Theme:** customized [Matcha GTK Theme](https://github.com/vinceliuice/matcha)
 - **Icons:** [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) icon theme, customized using [papirus-folders](https://github.com/PapirusDevelopmentTeam/papirus-folders)
 - **Terminal:** [urxvt](https://github.com/exg/rxvt-unicode)
+- **Shell:** [zsh](https://ohmyz.sh/) customized using [powerlevel9k](https://github.com/bhilburn/powerlevel9k) theme
 
 ## Linux Installation
 Not yet defined
@@ -16,6 +17,7 @@ Not yet defined
 
 ## TODO
 - [ ] enhanced color palette
-- [ ] customized assets
+- [ ] commit color palettes and configuration files
+- [ ] customize theme assets
 
 
