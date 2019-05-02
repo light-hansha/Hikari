@@ -16,6 +16,7 @@ Not yet defined
 [Metroid Fusion](https://www.google.com/search?q=Metroid+fusion&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiciKGX5OvhAhUF16QKHTcIC0QQ_AUIDigB&biw=1366&bih=627) and [this](https://www.color-hex.com/color-palette/61235)
 
 ## TODO
+- [ ] commit theme sample images 
 - [ ] enhanced color palette
 - [ ] commit color palettes and configuration files
 - [ ] customize theme assets
