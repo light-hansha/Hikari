@@ -6,6 +6,7 @@ The color scheme combines dark, muted backgrounds with bright, neon colors in th
 ![screenshot1](https://i.imgur.com/Z8qqwuN.png)
 ![screenshot2](https://i.imgur.com/AqWImPq.png)
 ![screenshot3](https://i.imgur.com/DKxQkuW.png)
+![screenshot3](https://i.imgur.com/pM8Eu4Q.png)
 
 
 ## Description
@@ -26,5 +27,5 @@ Not yet defined
 ## TODO
 - [x] commit theme sample images 
 - [x] enhanced color palette
-- [ ] commit color palettes and configuration files
+- [x] commit color palettes and configuration files
 - [ ] customize theme assets
