@@ -1,5 +1,5 @@
 # 【光】
-Hikari is a custommized theme based on the amazing [Matcha GTK Theme](https://github.com/vinceliuice/matcha) and supports GTK 3 based desktop environments.  
+Hikari is a customized theme based on the amazing [Matcha GTK Theme](https://github.com/vinceliuice/matcha) and supports GTK 3 based desktop environments.  
 The color scheme combines dark, muted backgrounds with bright, neon colors in the foreground for a very alien style.  
 
 ## Screenshots
@@ -29,4 +29,5 @@ Not yet defined
 - [x] commit theme sample images 
 - [x] enhanced color palette
 - [x] commit color palettes and configuration files
+- [ ] vim custom colorscheme 
 - [ ] customize theme assets
