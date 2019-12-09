@@ -14,14 +14,12 @@ URxvt.scrollBar: false
 ! Set terminal padding
 !URxvt.internalBorder: 5
 
+! Font configuration
 URxvt*.depth: 32
 URxvt*font:xft:DejaVuSansMono Nerd Font Mono:pixelsize=16, xft:DejaVu Sans:pixelsize=16
-
-!URxvt*font:xft:Meslo LG S for Powerline:pixelsize=16:minspace=False, xft:DejaVu Sans:pixelsize=15
-!URxvt*boldFont:xft:Meslo LG S for Powerline:pixelsize=16:minspace=False:weight=bold, xft:DejaVu Sans:pixelsize=15
 URxvt*letterSpace:0
-!URxvt.font: xft:Go Mono For Powerline:pixelsize=15:minspace=false
 
+! enable copy/paste using ctrl+shift+c and ctrl+shift+v
 URxvt.keysym.Shift-Control-V: eval:paste_clipboard
 URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
 URxvt.iso14755 : false
@@ -52,8 +50,8 @@ URxvt*borderColor:  [100]#0c0d0f
 *color0:  #0c0d0f
 *.color1: #945C49
 *color1:  #945C49
-*.color2: #BDAF2A
-*color2:  #BDAF2A
+*.color2: #DBFF00
+*color2:  #DBFF00
 *.color3: #41589F
 *color3:  #41589F
 *.color4: #676297
@@ -68,8 +66,8 @@ URxvt*borderColor:  [100]#0c0d0f
 *color8:  #878e9c
 *.color9: #945C49
 *color9:  #945C49
-*.color10: #BDAF2A
-*color10:  #BDAF2A
+*.color10: #DBFF00
+*color10:  #DBFF00
 *.color11: #41589F
 *color11:  #41589F
 *.color12: #676297
